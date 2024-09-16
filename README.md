@@ -7,12 +7,12 @@ Web page that converts Markdown and Asciidoc to HTML
 Enter text (or copy-paste) to the left pane. Then click on the
 button "Convert Markdown to HTML".
 
-# Converting Asciidoc
+## Converting Asciidoc
 
 Enter text (or copy-paste) to the left pane. Then click on the
 button "Convert Asciidoc to HTML".
 
-# Author
+## Author
 
 Aleksandar Janicijevic
 
@@ -28,10 +28,12 @@ I created this page for three reasons:
   annoying advertising that I had to suffer even if I want to do such
   a simple things as displaying a Markdown.
 
-# Acknowledgements
+## Acknowledgements
 
 The actual JavaScript code that converts Markdown and Asciidoc to HTML
-is not mine. Check the following projects:
+is not mine. Check out the following projects:
 
 - For Markdown: [Showdown](https://showdownjs.com/)
 - For Asciidoc: [Asciidoctor.js](https://docs.asciidoctor.org/asciidoctor.js/latest/)
+
+Big thank you to the authors of these projects!
